@@ -1,3 +1,5 @@
+# Extrair a biblioteca na pasta
+
 # QR Code Colorido
 
 Para alterar a cor do QR Code gerado, basta alterar o valor das variáveis no arquivo index.php
